@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-    cout << "merge" << endl;
+    cout << "main" << endl;
 }
