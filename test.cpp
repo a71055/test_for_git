@@ -2,7 +2,12 @@
 
 using namespace std;
 
+void test()
+{
+    cout << "test" << endl;
+}
+
 int main()
 {
-    cout << "main" << endl;
+    cout << "main function" << endl;
 }
