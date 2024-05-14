@@ -7,6 +7,12 @@ void test()
     cout << "test" << endl;
 }
 
+int count(int a）
+{
+    cout << a*a << endl;
+    return a*a;
+}
+
 int main()
 {
     cout << "main function" << endl;
