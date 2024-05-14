@@ -15,6 +15,6 @@ int count(int a）
 
 int main()
 {
-    cout << "main function" << endl;
+    cout << "destination" << endl;
     test();
 }
