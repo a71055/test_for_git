@@ -10,4 +10,5 @@ void test()
 int main()
 {
     cout << "main function" << endl;
+    test();
 }
