@@ -15,6 +15,7 @@ int count(int a）
 
 int main()
 {
+    sleep(1);
     cout << "main" << endl;
     test();
 }
