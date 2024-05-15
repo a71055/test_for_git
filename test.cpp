@@ -10,7 +10,6 @@ void test()
 
 int count(int a）
 {
-    cout << a*a << endl;
     return a*a;
 }
 
@@ -19,3 +18,4 @@ int main()
     cout << "destination" << endl;
     test();
 }
+
